@@ -1,4 +1,4 @@
-#!/usr/bin/python3.5
+#!/usr/bin/python3
 import pyautogui
 import time
 print("请在3秒内选择点击位置...")

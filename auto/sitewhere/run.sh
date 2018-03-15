@@ -8,7 +8,7 @@ service mongod start
 #cd /opt/hivemq-3.0.2/bin
 #./run.sh &
 
-sudo bash /opt/sitewhere/bin/startup.sh &
+sudo bash /opt/sitewhere/bin/startup.sh 
 
 
 

@@ -1,0 +1,13 @@
+http://geek.csdn.net/news/detail/73152
+实用简介：MQTT协议及其在物联网中的应用
+
+https://zoetrope.io/tech-blog/brief-practical-introduction-mqtt-protocol-and-its-application-iot
+MQTT协议及其在物联网中的应用简要而实用的介绍
+
+http://geek.csdn.net/news/detail/71894
+异步消息传递技术的比较：JMS、AMQP和MQTT
+
+https://dzone.com/articles/comparison-of-asynchronous-messaging-technologies
+异步消息传递技术的比较：JMS，AMQP和MQTT
+
+

@@ -1,0 +1,6 @@
+https://www.aliyun.com/jiaocheng/118539.html?spm=5176.100033.2.11.hLTONR
+ubuntu下无法挂载NTFS硬盘解决方案
+
+	sudo apt-get install ntfs-3g
+	sudo ntfsfix /dev/sda1
+ 

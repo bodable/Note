@@ -1,0 +1,12 @@
+
+SiteWhere/input/protobuf
+
+{
+	"hardwareId": "123-TEST-4567891",
+	"type": "RegisterDevice",
+	"request": {
+		"hardwareId": "123-TEST-4567891",
+		"specificationToken": "964e7613-dab3-4fb3-8919-266a91370884",
+		"siteToken": "bb105f8d-3150-41f5-b9d1-db04965668d3"
+	}
+}

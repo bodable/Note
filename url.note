@@ -5,3 +5,5 @@ http://documentation.sitewhere.io/tutorials/rpi/node-red-dht11.html
 树莓派连接sitewhere实例
 https://www.cnblogs.com/xfvipp/p/7831593.html
 
+mqtt-client
+http://www.hivemq.com/demos/websocket-client/

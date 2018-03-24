@@ -10,3 +10,24 @@ SiteWhere/input/protobuf
 		"siteToken": "bb105f8d-3150-41f5-b9d1-db04965668d3"
 	}
 }
+
+
+{
+    "hardwareId": "123-TEST-4567892",
+    "type": "DeviceMeasurements",
+    "request": {
+        "measurements": { 
+        	"temperatuure": "22.00",
+        	"humidity": "31.00"
+        },
+        "updateState": true,
+        "eventDate": "2018-03-24T19:40:03.391Z"
+     }
+}
+
+
+
+show collections
+
+db.sites.find().pretty()
+

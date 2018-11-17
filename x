@@ -1,6 +1,10 @@
 On branch master
 Your branch is up to date with 'origin/master'.
 
-nothing to commit, working tree clean
-[master 62b7ecd] auto commit
- 1 file changed, 4 insertions(+)
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   x
+
+no changes added to commit (use "git add" and/or "git commit -a")

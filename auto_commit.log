@@ -12,3 +12,6 @@ Changes not staged for commit:
 	modified:   xxxx
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 08f2ccb] auto commit
+ 3 files changed, 8 insertions(+), 8 deletions(-)
+fatal: could not read Username for 'https://github.com': Device not configured

@@ -1,7 +1,4 @@
-date: illegal time format
-usage: date [-jnRu] [-d dst] [-r seconds] [-t west] [-v[+|-]val[ymwdHMS]] ... 
-            [-f fmt date | [[[mm]dd]HH]MM[[cc]yy][.ss]] [+format]
-
+2018-11-17
 On branch master
 Your branch is up to date with 'origin/master'.
 
@@ -10,5 +7,6 @@ Changes not staged for commit:
   (use "git checkout -- <file>..." to discard changes in working directory)
 
 	modified:   auto_commit.log
+	modified:   commiter.sh
 
 no changes added to commit (use "git add" and/or "git commit -a")

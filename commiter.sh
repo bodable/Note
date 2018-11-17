@@ -1,6 +1,6 @@
 #/bin/bash
 
-date=`date +%Y %m %d`
+date=`date +%Y-%m-%d`
 echo $date
 git status
 git add .

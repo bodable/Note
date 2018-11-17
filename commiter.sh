@@ -6,8 +6,6 @@ git add .
 git add -u
 git commit -m "auto commit"
 git push
-echo "ATM006"
-echo "github18829897162"
 
 
 #583  git status

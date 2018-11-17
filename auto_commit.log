@@ -10,3 +10,6 @@ Changes not staged for commit:
 	modified:   auto_commit.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master d050881] auto commit
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+fatal: could not read Username for 'https://github.com': Device not configured

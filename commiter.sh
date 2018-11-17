@@ -1,10 +1,11 @@
 #/bin/bash
 
-echo `date +%Y%m%d`
+date=`date +%Y %m %d`
+echo $date
 git status
 git add .
 git add -u
-git commit -m "auto commit"
+git commit -m "auto commit $date"
 git push
 
 

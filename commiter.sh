@@ -1,5 +1,6 @@
 #/bin/bash
 
+echo `date +%Y%m%d`
 git status
 git add .
 git add -u

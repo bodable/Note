@@ -1,12 +1,13 @@
 20181117
 On branch master
-Your branch is ahead of 'origin/master' by 4 commits.
+Your branch is ahead of 'origin/master' by 5 commits.
   (use "git push" to publish your local commits)
 
 Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
+  (use "git add/rm <file>..." to update what will be committed)
   (use "git checkout -- <file>..." to discard changes in working directory)
 
+	deleted:    .commiter.sh.swp
 	modified:   auto_commit.log
 
 no changes added to commit (use "git add" and/or "git commit -a")

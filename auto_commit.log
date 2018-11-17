@@ -1,7 +1,6 @@
 20181117
 On branch master
-Your branch is ahead of 'origin/master' by 2 commits.
-  (use "git push" to publish your local commits)
+Your branch is up to date with 'origin/master'.
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
@@ -10,6 +9,3 @@ Changes not staged for commit:
 	modified:   auto_commit.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
-[master d050881] auto commit
- 1 file changed, 2 insertions(+), 3 deletions(-)
-fatal: could not read Username for 'https://github.com': Device not configured

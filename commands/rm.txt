@@ -1,0 +1,4 @@
+
+按照时间批量删除文件
+ls -l|grep "11:50" |awk -F '11:50' '{print $2}'| xargs sudo rm -fr
+

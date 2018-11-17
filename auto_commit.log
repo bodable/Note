@@ -1,13 +1,6 @@
 On branch master
-Your branch is ahead of 'origin/master' by 4 commits.
+Your branch is ahead of 'origin/master' by 5 commits.
   (use "git push" to publish your local commits)
-
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	deleted:    .commiter.sh.swp
-	modified:   auto_commit.log
-	modified:   commiter.sh
 
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
@@ -15,3 +8,4 @@ Changes not staged for commit:
 
 	modified:   auto_commit.log
 
+no changes added to commit (use "git add" and/or "git commit -a")

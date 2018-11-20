@@ -1,4 +1,4 @@
-2018-11-19
+2018-11-20
 On branch master
 Your branch is up to date with 'origin/master'.
 
@@ -8,23 +8,4 @@ Changes not staged for commit:
 
 	modified:   auto_commit.log
 
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	ba5e9acc4753cee4/
-
 no changes added to commit (use "git add" and/or "git commit -a")
-warning: adding embedded git repository: ba5e9acc4753cee4
-hint: You've added another git repository inside your current repository.
-hint: Clones of the outer repository will not contain the contents of
-hint: the embedded repository and will not know how to obtain it.
-hint: If you meant to add a submodule, use:
-hint: 
-hint: 	git submodule add <url> ba5e9acc4753cee4
-hint: 
-hint: If you added this path by mistake, you can remove it from the
-hint: index with:
-hint: 
-hint: 	git rm --cached ba5e9acc4753cee4
-hint: 
-hint: See "git help submodule" for more information.

@@ -1,0 +1,4 @@
+curl -X POST http://127.0.0.1:5000/login -d '{"username":"atm","password":"1234561"}'
+{"code":200,"result":{"code":200,"result":{"createdBy":"admin","createdDate":"2018-05-09 18:44:37","hashedPassword":"1234561","lastLogin":"2018-05-09 18:44:37","metadata":{},"status":true,"username":"atm"}}}
+
+
